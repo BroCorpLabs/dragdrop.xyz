@@ -8,3 +8,7 @@ drag drop xyz makes the process of printing and delivering 3d printed parts on t
 Prerequisities: 
 1. NodeJS
 2. Linux
+
+## Special thanks
+1. Viewstl.com for their plugin
+2. 3daddict.com for their cost calculator
